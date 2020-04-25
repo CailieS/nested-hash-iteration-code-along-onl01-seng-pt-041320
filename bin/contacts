@@ -13,4 +13,4 @@ contacts = {
    }
  }
 
-remove_strawberry(contacts)
+puts remove_strawberry(contacts)
